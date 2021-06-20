@@ -1,0 +1,95 @@
+{
+  "nav": {
+    "nav-link1": "О Нас",
+    "nav-link2": "УСЛУГИ",
+    "nav-link3": "ВРАЧИ",
+    "nav-link4": "ОТЗЫВЫ",
+    "nav-link5": "Контакты"
+  },
+  "header": {
+    "title": "ru header title",
+    "text": "ru header text"
+  },
+  "about": {
+    "title": "ru abou title",
+    "text": "ru Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus vulputate\n                  fames\n                  eget integer lorem risus vitae. Laoreet diam egestas donec massa urna enim maecenas senectus. Lacus\n                  scelerisque ac sit tellus egestas. Condimentum adipiscing et, et molestie nunc vulputate lacinia purus\n                  leo",
+    "link": "ru about link"
+  },
+  "services": {
+    "title": "ru Service",
+    "link": "ru pereyti",
+    "box1": {
+      "label": "ru label"
+        },
+    "box2": {
+      "label": "ru label"
+        },
+    "box3": {
+      "label": "ru label"
+        },
+    "box4": {
+      "label": "ru label"
+        },
+    "box5": {
+      "label": "ru label"
+        }
+  },
+  "doctors": {
+    "title": "ru Bizning shifokorlar",
+    "link": "ru Barchasini korish"
+  },
+  "reviews": {
+    "title": "ru Otziv",
+    "link": "ru Barchasini korish"
+  },
+  "contact": {
+    "title": "ru contact title",
+    "btn": "ru Yuborish",
+    "label1": "F.I.SH",
+    "label2": "Telefon",
+    "marshrut": "ru Marshrut o'rnatish",
+    "street": "ru CFS TABASSUM, Nasaf Ko'chasi, Тошкент, Uzbekistan"
+  },
+  "price": {
+    "title": "ru price title",
+    "btn": "ru price btn",
+    "card": {
+      "btn": "ru price card btn"
+    },
+    "card1": {
+      "label": "ru card1 label lorem",
+      "text1": "ru card text",
+      "text2": "ru card text",
+      "text3": "ru card text",
+      "text4": "ru card text",
+      "text5": "ru card text",
+      "btext": "ru card btext",
+      "price": "$295"
+    },
+    "card2": {
+      "label": "ru card2 label lorem",
+      "text1": "ru card text",
+      "text2": "ru card text",
+      "text3": "ru card text",
+      "text4": "ru card text",
+      "text5": "ru card text",
+      "btext": "ru card btext",
+      "price": "$295"
+    },
+    "card3": {
+      "label": "ru card3 label lorem",
+      "text1": "ru card text",
+      "text2": "ru card text",
+      "text3": "ru card text",
+      "text4": "ru card text",
+      "text5": "ru card text",
+      "btext": "ru card btext",
+      "price": "$295"
+    }
+  },
+
+  "footer": {
+    "titleContacts": "ru Kontaktlar",
+    "titleWork": "ru Ish vaqti"
+  }
+}

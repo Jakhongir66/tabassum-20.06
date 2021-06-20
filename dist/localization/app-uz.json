@@ -1,0 +1,95 @@
+{
+  "nav": {
+    "nav-link1": "Biz haqimizda",
+    "nav-link2": "Xizmatlar",
+    "nav-link3": "Doktorlarimiz",
+    "nav-link4": "SHARHLAR",
+    "nav-link5": "Bog'lanish"
+  },
+  "header": {
+    "title": "uz header title",
+    "text": "uz header text"
+  },
+  "about": {
+    "title": "uz abou title",
+    "text": "uz Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus vulputate\n                  fames\n                  eget integer lorem risus vitae. Laoreet diam egestas donec massa urna enim maecenas senectus. Lacus\n                  scelerisque ac sit tellus egestas. Condimentum adipiscing et, et molestie nunc vulputate lacinia purus\n                  leo",
+    "link": "uz about link"
+  },
+  "services": {
+    "title": "uz Service",
+    "link": "uz pereyti",
+    "box1": {
+      "label": "uz label"
+        },
+    "box2": {
+      "label": "uz label"
+        },
+    "box3": {
+      "label": "uz label"
+        },
+    "box4": {
+      "label": "uz label"
+        },
+    "box5": {
+      "label": "uz label"
+        }
+  },
+  "doctors": {
+    "title": "uz Bizning shifokorlar",
+    "link": "uz Barchasini korish"
+  },
+  "reviews": {
+    "title": "uz Otziv",
+    "link": "uz Barchasini korish"
+  },
+  "contact": {
+    "title": "uz contact title",
+    "btn": "Yuborish",
+    "label1": "F.I.SH",
+    "label2": "Telefon",
+    "marshrut": "Marshrut o'rnatish",
+    "street": "CFS TABASSUM, Nasaf Ko'chasi, Тошкент, Uzbekistan"
+  },
+  "price": {
+    "title": "uz price title",
+    "btn": "uz price btn",
+    "card": {
+      "btn": "uz price card btn"
+    },
+    "card1": {
+      "label": "uz card1 label lorem",
+      "text1": "uz card text",
+      "text2": "uz card text",
+      "text3": "uz card text",
+      "text4": "uz card text",
+      "text5": "uz card text",
+      "btext": "uz card btext",
+      "price": "$295"
+    },
+    "card2": {
+      "label": "uz card2 label lorem",
+      "text1": "uz card text",
+      "text2": "uz card text",
+      "text3": "uz card text",
+      "text4": "uz card text",
+      "text5": "uz card text",
+      "btext": "uz card btext",
+      "price": "$295"
+    },
+    "card3": {
+      "label": "uz card3 label lorem",
+      "text1": "uz card text",
+      "text2": "uz card text",
+      "text3": "uz card text",
+      "text4": "uz card text",
+      "text5": "uz card text",
+      "btext": "uz card btext",
+      "price": "$295"
+    }
+  },
+
+  "footer": {
+    "titleContacts": "Kontaktlar",
+    "titleWork": "Ish vaqti"
+  }
+}

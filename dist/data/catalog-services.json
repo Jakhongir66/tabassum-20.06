@@ -1,0 +1,25 @@
+{
+  "catalog_services": [
+    {
+      "id": 1,
+      "procedure_name": "Консультация и осмотр врача",
+      "parent_name": "Терапия",
+      "price": 20000,
+      "parent_weight":0
+    },
+    {
+      "id": 2,
+      "procedure_name": "Консультация и осмотр врача",
+      "parent_name": "Терапия",
+      "price": 30000,
+      "parent_weight":1
+    },
+    {
+      "id": 3,
+      "procedure_name": "Консультация и осмотр врача",
+      "parent_name": "Терапия",
+      "price": 25000,
+      "parent_weight":2
+    }
+  ]
+}

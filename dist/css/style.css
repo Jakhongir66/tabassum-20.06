@@ -1653,6 +1653,10 @@ h6 {
   padding: 0 1rem;
 }
 
+.catalog-content__column.hide {
+  display: none;
+}
+
 .cards {
   height: 20.25rem;
   min-width: 21.5rem;
@@ -1916,6 +1920,10 @@ h6 {
 }
 
 @media (min-width: 43.5em) {
+  .catalog__left--top {
+    width: 90%;
+  }
+
   .item-filter {
     width: 85%;
   }

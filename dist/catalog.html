@@ -13,6 +13,7 @@
   <link rel="stylesheet" href="css/libs/swiper-bundle.min.css">
   <link rel="stylesheet" href="css/libs/jquery.fancybox.min.css">
   <link rel="stylesheet" href="css/style.min.css">
+  <script src="js/libs/html2pdf.bundle.min.js"></script>
 </head>
 
 
@@ -29,7 +30,7 @@
             <div class="catalog__column">
               <div class="catalog__left">
                 <div class="catalog__left--top">
-                  <a href="" class="catalog__left-btn">СКАЧАТЬ В PDF</a>
+                  <button type="button" class="catalog__left-btn" id="download">СКАЧАТЬ В PDF</button>
                 </div>
                 <div class="catalog__left--bottom items">
                   <!-- todo -->
@@ -41,14 +42,14 @@
                 <div class="catalog__right--top">
                   <div class="catalog__right--top-text">обновленно: 20.06.2021</div>
                   <div class="catalog__right--top-search search-catalog">
-                    <input type="text" placeholder="Поиск" class="search-catalog__input">
+                    <input type="text" placeholder="Поиск" autocomplete="off" id="search" class="search-catalog__input">
                     <button class="search-catalog__btn"><img src="img/search.svg" alt=""></button>
                   </div>
                 </div>
                 <div class="catalog-content">
                   <div class="catalog-content__title">терапия</div>
                   <div class="catalog-content__row">
-
+                    <!-- todo -->
                   </div>
                 </div>
               </div>

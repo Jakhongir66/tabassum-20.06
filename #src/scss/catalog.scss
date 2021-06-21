@@ -62,6 +62,9 @@
   &__left--top {
     text-align: center;
     margin-bottom: 0.6rem;
+    @media (min-width: 43.5em) {
+      width: 90%;
+    }
   }
   // .catalog__left-btn
   &__left-btn {
@@ -192,6 +195,9 @@
     flex: 0 1 33.333%;
     margin-bottom: 1.9rem;
     padding: 0 1rem;
+    &.hide {
+      display: none;
+    }
   }
 }
 .cards {
@@ -235,6 +241,7 @@
     text-transform: uppercase;
     color: #680000;
     margin-top: 2rem;
+
     @media (max-width: $md3+em) {
       margin-top: 3rem;
     }
